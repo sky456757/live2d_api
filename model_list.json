@@ -163,28 +163,40 @@
       "mashiro/shifuku"
     ],
     [
-      "HyperdimensionNeptunia/neptune_classic",
-      "HyperdimensionNeptunia/nepnep",
-      "HyperdimensionNeptunia/neptune_santa",
-      "HyperdimensionNeptunia/nepmaid",
-      "HyperdimensionNeptunia/nepswim",
-      "HyperdimensionNeptunia/noir_classic",
-      "HyperdimensionNeptunia/noir",
-      "HyperdimensionNeptunia/noir_santa",
-      "HyperdimensionNeptunia/noireswim",
-      "HyperdimensionNeptunia/blanc_classic",
-      "HyperdimensionNeptunia/blanc_normal",
-      "HyperdimensionNeptunia/blanc_swimwear",
-      "HyperdimensionNeptunia/vert_classic",
-      "HyperdimensionNeptunia/vert_normal",
-      "HyperdimensionNeptunia/vert_swimwear",
-      "HyperdimensionNeptunia/nepgear",
-      "HyperdimensionNeptunia/nepgear_extra",
-      "HyperdimensionNeptunia/nepgearswim",
-      "HyperdimensionNeptunia/histoire",
-      "HyperdimensionNeptunia/histoirenohover"
+      "HyperdimensionNeptunia/nep/neptune_classic",
+      "HyperdimensionNeptunia/nep/nepnep",
+      "HyperdimensionNeptunia/nep/neptune_santa",
+      "HyperdimensionNeptunia/nep/nepmaid",
+      "HyperdimensionNeptunia/nep/nepswim"
+    ],
+    [
+      "HyperdimensionNeptunia/noi/noir_classic",
+      "HyperdimensionNeptunia/noi//noir",
+      "HyperdimensionNeptunia/noi/noir_santa",
+      "HyperdimensionNeptunia/noi/noireswim"
+    ],
+    [
+      "HyperdimensionNeptunia/blanc/blanc_classic",
+      "HyperdimensionNeptunia/blanc/blanc_normal",
+      "HyperdimensionNeptunia/blanc/blanc_swimwear"
+    ],
+    [
+      "HyperdimensionNeptunia/vert/vert_classic",
+      "HyperdimensionNeptunia/vert/vert_normal",
+      "HyperdimensionNeptunia/vert/vert_swimwear"
+    ],
+    [
+      "HyperdimensionNeptunia/nepg/nepgear",
+      "HyperdimensionNeptunia/nepg/nepgear_extra",
+      "HyperdimensionNeptunia/nepg/nepgearswim"
+    ],
+    [
+      "HyperdimensionNeptunia/histori/histoire",
+      "HyperdimensionNeptunia/histori/histoirenohover"
     ]
+    
   ],
+
   "messages": [
     "來自 Potion Maker 的 Pio 醬 ~",
     "來自 Potion Maker 的 Tia 醬 ~",
@@ -194,6 +206,11 @@
     "エロマンガ先生？ そ、そんな名前の人は知らない⋯",
     "歡迎光臨Rabbit house ~",
     "呐，你想變成什麼顏色",
-    "Nep! Nep!"
+    "ねぷねぷにしてやんよ！",
+    "ラステイションの女神、ノワールよ。",
+    "わたしはブランよ。よろしくお願いするわ",
+    "わたくしはリーンボックスの女神、ベールと申します。",
+    "プラネテュ―ヌの女神、ネプギア！",
+    "プラネテュ―ヌのイストワール。"
   ]
 }
