@@ -158,6 +158,11 @@
     "sagiri",
     "chino",
     [
+      "mashiro/ryoufuku",
+      "mashiro/seifuku",
+      "mashiro/shifuku"
+    ],
+    [
       "HyperdimensionNeptunia/neptune_classic",
       "HyperdimensionNeptunia/nepnep",
       "HyperdimensionNeptunia/neptune_santa",
@@ -188,6 +193,7 @@
     "あのね、あのね~",
     "エロマンガ先生？ そ、そんな名前の人は知らない⋯",
     "歡迎光臨Rabbit house ~",
+    "呐，你想變成什麼顏色",
     "Nep! Nep!"
   ]
 }
