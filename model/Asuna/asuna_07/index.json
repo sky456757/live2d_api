@@ -38,9 +38,9 @@
     "file": "../general/exp/F_SLEEP.exp.json"
   }],
   "layout": {
-    "width": 1.1,
+    "width": 2,
     "center_x": -0.0507,
-    "center_y": -0.089
+    "center_y": -0.455
   },
   "hit_areas": [{
     "name": "chest",
